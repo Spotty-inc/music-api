@@ -61,7 +61,6 @@ func main(){
 	Songs = []Song{
 		Song{Id: "1", Title: "Titanium", Artist: "Dave", Popularity: 60},
 		Song{Id: "2", Title: "Low", Artist: "Sza", Popularity: 75},
-		Song(Id: "3", Title: "Just Wanna Rock", Artist: "Lil Uzi Vert", Popularity: 80),
 	}
 	requestHandler()
 }
